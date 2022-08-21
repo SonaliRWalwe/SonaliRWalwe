@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @SonaliRWalwe
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning python
+#### 👋 Hi, I’m Sonali
+ ❤️ I love collabrating on Machine Learning topics and self growth topics
 
-<!---
-SonaliRWalwe/SonaliRWalwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 🐍 Languages I am learning include Python
+
+ ![GaussianMixtureModelsEmMethodMathGIF](https://user-images.githubusercontent.com/34711798/185796042-7e424c0c-c078-4bed-8520-fa059de72a85.gif)
